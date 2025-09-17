@@ -23,7 +23,7 @@
 
 <br/>
 
-<a href="https://github.com/SeuUsuarioAqui">
+<a href="https://github.com/lucassx123">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&theme=dark&show_icons=true" />
 </a>
 
