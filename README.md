@@ -21,8 +21,10 @@
 
 <br/>
 
-<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 
+<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
+
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 ## Onde me encontrar
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram)](https://www.instagram.com/SEU_USUARIO/)
