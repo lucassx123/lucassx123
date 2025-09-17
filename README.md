@@ -23,8 +23,7 @@
 
 <br/>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=lucassx123&theme=dark&hide_border=falso&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucassx123&theme=dark&hide_border=&locale=pt_BR&short_numbers=)](https://git.io/streak-stats)
 
 ## Onde me encontrar
 
