@@ -21,7 +21,7 @@
 
 <br/>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/intl-pt/track/7JIKLzLSdHQjdxxOpob1px?si=c8fb7e3b82134c14])
+<img src="https://widgetbite.com/stats/{random-guid}" alt="watching_count" />
 
 ## Onde me encontrar
 
