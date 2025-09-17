@@ -22,7 +22,7 @@
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=white)
 
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=lucassx123&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
 ## Onde me encontrar
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram)](https://www.instagram.com/lucassxoficial/)
