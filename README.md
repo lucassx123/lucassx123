@@ -24,7 +24,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucassx123&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucassx123&show_icons=true&hide_border=true" alt="JustSong's Github Stats" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassx123&layout=compact&hide_border=true&langs_count=10" alt="JustSong's Top Langs" width="37%" /> 
+</p>
 
 ## Onde me encontrar
 
