@@ -27,4 +27,4 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram)](https://www.instagram.com/lucassxoficial/)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=telegram)](https://t.me/lucassxofc)
-[![GitHub](https://img.shields.io/github/followers/lucassx123?label=follow&style=social)](https://github.com/lucassx123)
+[![GitHub](https://img.shields.io/github/followers/lucassx123?label=follow&style=social)](https://github.com/lucassxofc)
