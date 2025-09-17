@@ -21,7 +21,7 @@
 
 <br/>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/intl-pt/track/7JIKLzLSdHQjdxxOpob1px?si=b6c1e94c35d74c31])
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/intl-pt/track/7JIKLzLSdHQjdxxOpob1px?si=c8fb7e3b82134c14])
 
 ## Onde me encontrar
 
