@@ -1,6 +1,6 @@
 ## Sobre mim
 
-- 🤔 Olá, meu nome é Lucas. Sou um desenvolvedor explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Olá, meu nome é Lucas. Sou um desenvolvedor explorando novas tecnologias.
 - 🌱 Atualmente estou aprendendo C#.
 
 ## Minhas Skills
