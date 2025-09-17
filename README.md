@@ -25,10 +25,16 @@
 <img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucassx123&show_icons=true&hide_border=true" alt="JustSong's Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassx123&layout=compact&hide_border=true&langs_count=10" alt="JustSong's Top Langs" width="37%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=lucassx123&show_icons=true&hide_border=true" alt="Lucassxs Github Stats" width="58%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassx123&layout=compact&hide_border=true&langs_count=10" alt="Lucassx Top Langs" width="37%" /> 
 </p>
 
+<a href="https://github.com/songquanpeng/stats-cards">
+<p>
+  <img src="https://stats.justsong.cn/api/leetcode/?username=lucassx123&theme=light" alt="JustSong's LeetCode Stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/zhihu/?username=slucassx123&theme=light" alt="JustSong's Zhihu Stats" width="49%" /> 
+</p>
+</a>
 ## Onde me encontrar
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram)](https://www.instagram.com/SEU_USUARIO/)
