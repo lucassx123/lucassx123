@@ -1,20 +1,34 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=04a1a3b2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+LUCAS;I'm+a+Python,+Javascript,+PHP+and+MySQL+Developer;Be+Welcome!+:%29" alt="Typing SVG" /></a>
+## Sobre mim
 
-<div align="center">
-  <a href="https://github.com/SeuUsuarioAqui">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuarioAqui&layout=compact&langs_count=7&theme=gotham"/>
-</div>
+- 🤔 Olá, meu nome é Lucas. Sou um desenvolvedor explorando novas tecnologias e desenvolvendo soluções de software.
+- 🌱 Atualmente estou aprendendo C#.
 
-### Main skills:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PHP-Dark.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
-</div>
+## Minhas Skills
 
-### Studying in this moment:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CS.svg">
-</div>
+**Main skills:**
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Tools:**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
+
+**Studying:**
+
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=white)
+
+<br/>
+
+<a href="https://github.com/SeuUsuarioAqui">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuarioAqui&theme=dark&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram)](https://www.instagram.com/SEU_USUARIO/)
+[![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=telegram)](https://t.me/SEU_USUARIO)
+[![GitHub](https://img.shields.io/github/followers/SeuUsuarioAqui?label=follow&style=social)](https://github.com/SeuUsuarioAqui)
