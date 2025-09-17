@@ -24,12 +24,7 @@
 <br/>
 
 
-<img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucassx123&show_icons=true&hide_border=true" alt="Lucassxs Github Stats" width="58%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassx123&layout=compact&hide_border=true&langs_count=10" alt="Lucassx Top Langs" width="37%" /> 
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucassx123&theme=dark&hide_border=falso&locale=pt_BR)](https://git.io/streak-stats)
 
 ## Onde me encontrar
 
