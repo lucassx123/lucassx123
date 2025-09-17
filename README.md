@@ -1,7 +1,5 @@
-## Sobre mim
-
-- 🤔 Olá, meu nome é Lucas. Sou um desenvolvedor explorando novas tecnologias e desenvolvendo soluções de software.
-- 🌱 Atualmente estou aprendendo C#.
+<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm r" title="👋 Hi there! I'm r"/>
+<div align="justify">
 
 ## Minhas Skills
 
