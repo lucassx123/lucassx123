@@ -1,9 +1,9 @@
-## Sobre mim
+# Sobre mim
 
 - 🤔 Olá, meu nome é Lucas. Sou um desenvolvedor explorando novas tecnologias.
 - 🌱 Atualmente estou aprendendo C#.
 
-## Minhas Skills
+# Minhas Skills
 
 **Main skills:**
 
@@ -26,7 +26,8 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassx123&show_icons=true&locale=en&layout=compact&theme=radical" alt="lucassx123" width="465" />
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=lucassx123&show_icons=true&theme=radical"> 
-## Onde me encontrar
+
+# Onde me encontrar
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram)](https://www.instagram.com/lucassxoficial/)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=flat&logo=telegram)](https://t.me/lucassxofc)
