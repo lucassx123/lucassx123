@@ -25,7 +25,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassx123&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="465" />  
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucassx123&show_icons=true&theme=radical" alt="GitHub Stats" />  
+ 
 
 <p align="center">
     <img align='left' src="https://steamuserimages-a.akamaihd.net/ugc/1661224712069230981/BFD6A13BBBF6F1A2A7FA6A6DA961E0700E98660A/?imw=1024&imh=576&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" width="340" height="250">
