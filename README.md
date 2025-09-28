@@ -23,6 +23,8 @@
 
 <br/>
 
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs?username=lucassx123&show_icons=true&locale=en&layout=compact&theme=radical" alt="lucassx123" width="465" />
+
 ## Onde me encontrar
 
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=instagram)](https://www.instagram.com/lucassxoficial/)
